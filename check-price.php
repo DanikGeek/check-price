@@ -61,5 +61,9 @@ for ($i = 0; $i < count($urls); $i++) {
 // Если есть уведомления об изменении цен, отправляем их в одном письме
 if (!empty($notifications)) {
     send_notification($email, $notifications);
+	echo "Цены изменились";
+}
+else {
+echo "Цены остались прежними";
 }
 ?>
