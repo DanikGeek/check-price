@@ -1,5 +1,5 @@
 <?php
-// Массив URL-адресов страниц с товарами
+// Массив URL-адресов страниц с товарами1
 $urls = array(
     'https://demo.colibriclub.kz/products/rebryshki-fridays-tennessi',
     'https://demo.colibriclub.kz/products/lomot-vyalenoe-myaso-olenina-500-gr-lomot'
